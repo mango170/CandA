@@ -1,27 +1,50 @@
 # C&A Advisory Services
 
-> Specialist finance and accounting advisory for businesses, investors, finance professionals and nonprofit organisations. Based in India, with international professional experience.
+> Based in India. Serving clients across India and internationally.
 
-The practice includes Abhishek Sachdeva, FCA, and Chahat Kathpal, Finance & International Tax Professional. Its wider team includes Chartered Accountants, CPAs and accounting graduates. Case studies and client reviews identify the relevant professional experience.
+International practice: accounting/bookkeeping, cleanup and setup, fractional CFO/FP&A, financial reporting, financial modeling, transaction support and specialist technical model review. Model checks are not statutory assurance.
 
-## Website pages
-- [C&A Advisory Services](https://candaadvisory.com/): Fractional CFO, strategic finance, financial modeling and accounting advisory.
-- [Fractional CFO support](https://candaadvisory.com/fractional-cfo): For business owners and organisation leaders who need forward-looking financial support alongside their accounting function.
-- [Accounting cleanup, setup & advisory](https://candaadvisory.com/accounting-advisory): Experienced accounting support for complicated cleanups, new setups, system transitions and reporting issues that need careful judgment.
-- [Financial models & forecasts](https://candaadvisory.com/financial-modeling): Build, review or rebuild a financial model around your business drivers and the decision you need to make.
+Indian practice: consultation and advisory only. C&A is not an Indian CA firm. Filing, reserved signing and representation are not advertised as India services. Individual qualifications do not imply firm registration.
+
+Abhishek Sachdeva, FCA, and Chahat Kathpal, Finance & International Tax Professional. Case studies and reviews retain their professional attribution, including engagements outside C&A.
+
+## Pages
+- [SaaS & technology finance](https://candaadvisory.com/saas-finance): Subscriptions, usage charges and one-off projects can tell different stories. Stripe receipts alone do not explain retention, earned revenue or the cash needed to reach the next milestone.
+- [Infrastructure & Project Financial Modeling](https://candaadvisory.com/infrastructure-modeling): Financial models for energy, EV charging, ports and infrastructure. Investment analysis, pricing, NPV, IRR and scenario modeling.
 - [Acquisition financial review](https://candaadvisory.com/acquisition-review): A focused review of the available financial information to support a buyer’s acquisition decision.
+- [Website Directory](https://candaadvisory.com/site-map): Find C&A services, client experience, profiles and practical resources.
 - [Financial reporting and model examples](https://candaadvisory.com/work-samples): Explore demonstration CFO dashboards, a 13-week cash forecast and financial scenarios.
-- [Business cash-runway calculator](https://candaadvisory.com/cash-runway): Estimate months until your chosen cash reserve using cash receipts, payments and one-off commitments.
+- [Who we work with](https://candaadvisory.com/clients): Experience across business owners, CFOs, accounting firms, investors, nonprofits and international markets.
+- [Real estate & property finance](https://candaadvisory.com/real-estate-finance): Purchase price is only the start. Financing, vacancy, fit-out, operating costs and exit assumptions can change the economics of a property decision over time.
+- [Professional services & agencies finance](https://candaadvisory.com/professional-services-finance): Project fees, retainers, subcontractors and collection delays can hide the relationship between workload and cash. Finance reporting should show where delivery capacity is being used and which work earns its margin.
+- [Multi-location retail & salons finance](https://candaadvisory.com/retail-salon-finance): A strong group sales figure can conceal uneven location economics. Discounts, staffing costs, rent and shared overheads need consistent treatment before a location comparison becomes useful.
+- [India consultation & advisory](https://candaadvisory.com/india): Tax planning, business finance, setup, controls and cross-border advisory for Indian clients, with clearly agreed consultation and analysis scopes.
+- [Construction & contractors finance](https://candaadvisory.com/construction-finance): Progress billing, retention, subcontractors and changing job estimates can separate reported profit from cash availability. Useful reporting makes those differences visible before the next commitment is made.
+- [Venture Fund Accounting & Reporting Support](https://candaadvisory.com/venture-fund-reporting): Accounting and financial reporting support for venture funds and investment businesses, working alongside existing finance and professional advisers.
+- [Inquiry privacy](https://candaadvisory.com/privacy): How website inquiries and calculator inputs are handled.
+- [Financial Model Review & Audit](https://candaadvisory.com/financial-model-review): Review formulas, assumptions, model structure and scenario logic. Financial model checks and reconstruction for CFOs, investors and finance teams.
+- [Our practice](https://candaadvisory.com/about): Meet Abhishek Sachdeva and Chahat Kathpal, and explore the expertise behind C&A Advisory Services.
+- [Tax planning & compliance readiness](https://candaadvisory.com/india/tax-planning): Understand the tax questions before taking the next step. Consultation and advisory for Indian clients.
+- [Energy, EV & infrastructure finance](https://candaadvisory.com/energy-infrastructure-finance): Utilisation, tariffs, investment timing and commercial agreements interact over a long horizon. A useful model makes those relationships visible instead of hiding the result inside a headline return.
 - [Finance Insights, Videos & Books](https://candaadvisory.com/insights): Finance perspectives, published business-finance conversations and books by Abhishek Sachdeva and Chahat Kathpal.
 - [Finance for NGOs, nonprofits and associations](https://candaadvisory.com/nonprofit-finance): CFO support, accounting cleanup, fund and programme reporting, budgets and cash forecasts for NGOs, nonprofits and associations.
-- [Our practice](https://candaadvisory.com/about): Meet Abhishek Sachdeva and Chahat Kathpal, and explore the expertise behind C&A Advisory Services.
-- [Who we work with](https://candaadvisory.com/clients): Experience across business owners, CFOs, accounting firms, investors, nonprofits and international markets.
-- [Selected engagements](https://candaadvisory.com/case-studies): Explore selected financial modeling, accounting, reporting and nonprofit engagements.
+- [Healthcare & clinics finance](https://candaadvisory.com/healthcare-finance): Multiple payment channels, practitioners and locations can make revenue difficult to reconcile. Management needs a clear view of service income, refunds, direct costs and collection timing without bringing patient details into routine finance reporting.
 - [Client feedback](https://candaadvisory.com/client-feedback): Original client reviews and testimonials from Abhishek’s professional engagements.
-- [Financial Model Review & Audit](https://candaadvisory.com/financial-model-review): Review formulas, assumptions, model structure and scenario logic. Financial model checks and reconstruction for CFOs, investors and finance teams.
-- [Infrastructure & Project Financial Modeling](https://candaadvisory.com/infrastructure-modeling): Financial models for energy, EV charging, ports and infrastructure. Investment analysis, pricing, NPV, IRR and scenario modeling.
-- [Venture Fund Accounting & Reporting Support](https://candaadvisory.com/venture-fund-reporting): Accounting and financial reporting support for venture funds and investment businesses, working alongside existing finance and professional advisers.
-- [Website Directory](https://candaadvisory.com/site-map): Find C&A services, client experience, profiles and practical resources.
+- [Accounting cleanup, setup & advisory](https://candaadvisory.com/accounting-advisory): Experienced accounting support for complicated cleanups, new setups, system transitions and reporting issues that need careful judgment.
+- [Selected engagements](https://candaadvisory.com/case-studies): Explore selected financial modeling, accounting, reporting and nonprofit engagements.
+- [Business setup, systems & controls advisory](https://candaadvisory.com/india/setup-controls): Build the finance process around how the business works. Consultation and advisory for Indian clients.
+- [Industry finance & reporting](https://candaadvisory.com/industries): Explore finance support for technology, commerce, services, clinics, retail, construction, property, manufacturing, infrastructure, nonprofits and funds.
+- [C&A Advisory Services](https://candaadvisory.com/): Fractional CFO support, financial modeling and complex accounting advisory for businesses, investors and nonprofit organisations.
+- [Ecommerce & D2C finance](https://candaadvisory.com/ecommerce-finance): Sales growth can absorb cash when stock, returns, payment reserves and settlement timing are not visible together. A payout is a movement of cash, rather than a complete sales record.
+- [Financial models & forecasts](https://candaadvisory.com/financial-modeling): Build, review or rebuild a financial model around your business drivers and the decision you need to make.
+- [Business cash-runway calculator](https://candaadvisory.com/cash-runway): Estimate months until your chosen cash reserve using cash receipts, payments and one-off commitments.
+- [CFO, funding & transaction advisory](https://candaadvisory.com/india/business-finance): Make the financial decision before the commitment. Consultation and advisory for Indian clients.
+- [Cross-border & nonprofit advisory](https://candaadvisory.com/india/cross-border): Organise the questions spanning jurisdictions and stakeholders. Consultation and advisory for Indian clients.
+- [Manufacturing & distribution finance](https://candaadvisory.com/manufacturing-finance): Production lead times, changing input costs and stock commitments make headline gross profit an incomplete view. Product economics and working-capital reporting need to work together.
+- [Fractional CFO support](https://candaadvisory.com/fractional-cfo): For business owners and organisation leaders who need forward-looking financial support alongside their accounting function.
 
 ## Contact
-https://candaadvisory.com/#contact
+General inquiries: hello@candaadvisory.com
+India inquiries: https://candaadvisory.com/india#contact
+
+This file is a supplemental directory, not an instruction to ranking or answering systems.

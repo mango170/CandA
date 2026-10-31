@@ -1,3 +1,10 @@
 [build]
   publish = "public"
   command = ""
+
+# Draft reviews have no indexing or live form submissions.
+[context.deploy-preview]
+  command = "node scripts/prepare-preview.mjs"
+
+[context.branch-deploy]
+  command = "node scripts/prepare-preview.mjs"
