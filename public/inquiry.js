@@ -17,6 +17,10 @@
   form.addEventListener('input', () => { ready.hidden = true; });
   form.addEventListener('submit', async event => {
     event.preventDefault();
+    if (!['candaadvisory.com', 'www.candaadvisory.com', 'canda-advisory.netlify.app'].includes(location.hostname)) {
+      status.textContent = 'Review preview: inquiry submission is disabled. No message has been sent.';
+      return;
+    }
     if (!form.reportValidity() || button.disabled) return;
     button.disabled = true;
     button.textContent = 'Sending…';
@@ -37,8 +41,8 @@
       form.reset();
     } catch (error) {
       status.textContent = error.name === 'AbortError'
-        ? 'We could not confirm receipt. Your details are still here. Please email abhisheksachdeva.ca@gmail.com or try again later.'
-        : 'Your inquiry could not be sent. Your details are still here. Please retry or email abhisheksachdeva.ca@gmail.com.';
+        ? 'We could not confirm receipt. Your details are still here. Please email hello@candaadvisory.com or try again later.'
+        : 'Your inquiry could not be sent. Your details are still here. Please retry or email hello@candaadvisory.com.';
     } finally {
       clearTimeout(timer);
       button.disabled = false;
