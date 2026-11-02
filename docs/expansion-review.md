@@ -34,3 +34,15 @@ The content describes operational services without claiming reserved professiona
 ## Publication remains a separate approval
 
 After approval, merge through the normal owner process. Then verify production routes, form detection and a controlled receipt test before changing any notification settings. Use existing verified Search Console and Bing properties to submit the sitemap. No crawler submissions or DNS changes were made during this preview. robots.txt permissions remain unchanged. llms.txt is a supplemental directory and does not guarantee AI inclusion.
+
+## Hosted and browser verification completed
+
+Preview: https://deploy-preview-1--canda-advisory.netlify.app/india . Netlify deploy 6ae91f268b353186a677743c is ready for source a672bfb565deda183947acc7da6df63889527987.
+
+All 36 canonical routes returned HTTP 200 with noindex response headers and metadata. Hosted HTML has no Netlify form-capture attributes and submit buttons remain disabled. Representative new .html aliases and trailing-slash routes resolve, and a missing route returns 404.
+
+Desktop browser inspection covered the India hub, GST route and homepage inquiry. Enter expands the GST FAQ with the corrected affirmative filing answer. The India CTA preselects India compliance and advisory, with submission visibly disabled. No inquiry was sent.
+
+Responsive browser QA used local copies of the preview output in 390px-wide iframes: homepage, India hub and GST page. Headings and service navigation wrap, service cards stack and the menu opens and closes with Escape. GST document scroll width equals its 375px content viewport (390px frame including scrollbar). This is browser rendering at mobile width, not physical-device testing.
+
+Production deploy remains 6ad20b134a0490225918a524, unchanged from the pre-edit snapshot. Draft PR remains open for review. No publication or notification-setting approval is implied.
