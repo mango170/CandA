@@ -49,3 +49,16 @@ for u in urls:
 print(f'Checked {len(pages)} HTML pages, {len(urls)} indexable canonicals, routes, fragments, labels, JSON-LD and India scope.')
 if errors:print('\n'.join(errors));raise SystemExit(1)
 print('PASS')
+# Confirm the revised scope across visible copy and retrieval metadata.
+prohibited=['not an indian ca firm','individual professional qualifications do not constitute','return filing and portal execution are not offered','filing execution','this section offers','this page offers','consultation and advisory only']
+for name,s in pages.items():
+ for phrase in prohibited:
+  if phrase in str(s).lower():errors.append(name+': obsolete copy '+phrase)
+ desc=s.select_one('meta[name=description]')
+ for key in ['og:description','twitter:description']:
+  social=s.find('meta',attrs={'property' if key.startswith('og:') else 'name':key})
+  if social and desc and social['content']!=desc['content']:errors.append(name+': social description mismatch')
+for route in ['/india/gst','/india/mca-compliance','/india/import-export-customs']:
+ if route not in routes:errors.append('missing India service '+route)
+if errors:print('\n'.join(errors));raise SystemExit(1)
+print('PASS: revised scope and social metadata regressions')

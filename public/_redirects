@@ -1,3 +1,6 @@
+/india-import-export-customs.html /india/import-export-customs 301!
+/india-mca-compliance.html /india/mca-compliance 301!
+/india-gst.html /india/gst 301!
 /index.html / 301!
 /fractional-cfo.html /fractional-cfo 301!
 /manufacturing-finance.html /manufacturing-finance 301!
@@ -98,3 +101,12 @@
 /india/cross-border/ /india-cross-border.html 200
 /manufacturing-finance /manufacturing-finance.html 200
 /manufacturing-finance/ /manufacturing-finance.html 200
+
+/india/gst /india-gst.html 200
+/india/gst/ /india-gst.html 200
+
+/india/mca-compliance /india-mca-compliance.html 200
+/india/mca-compliance/ /india-mca-compliance.html 200
+
+/india/import-export-customs /india-import-export-customs.html 200
+/india/import-export-customs/ /india-import-export-customs.html 200

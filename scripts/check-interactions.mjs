@@ -15,9 +15,9 @@ const code=await readFile(new URL('inquiry.js',root),'utf8');
 async function inquiry(host,fail=false){
  const events={};let calls=0;
  const status={textContent:''},ready={hidden:false,focus(){}},button={disabled:false,textContent:''};
- const form={elements:{service:{options:[{value:'India consultation and advisory'}]}},querySelector(){return button},addEventListener(k,v){events[k]=v},reportValidity(){return true},reset(){}};
- const context={document:{querySelector:s=>({'#inquiry-form':form,'#inquiry-ready':ready,'#inquiry-status':status}[s]),querySelectorAll:()=>[]},location:{search:'?service=India%20consultation%20and%20advisory',hostname:host},URLSearchParams,AbortController,setTimeout,clearTimeout,FormData:class{set(){}},fetch:async()=>{calls++;if(fail)throw Error('offline');return {ok:true}}};
- vm.runInNewContext(code,context);assert.equal(form.elements.service.value,'India consultation and advisory');
+ const form={elements:{service:{options:[{value:'India compliance and advisory'}]}},querySelector(){return button},addEventListener(k,v){events[k]=v},reportValidity(){return true},reset(){}};
+ const context={document:{querySelector:s=>({'#inquiry-form':form,'#inquiry-ready':ready,'#inquiry-status':status}[s]),querySelectorAll:()=>[]},location:{search:'?service=India%20compliance%20and%20advisory',hostname:host},URLSearchParams,AbortController,setTimeout,clearTimeout,FormData:class{set(){}},fetch:async()=>{calls++;if(fail)throw Error('offline');return {ok:true}}};
+ vm.runInNewContext(code,context);assert.equal(form.elements.service.value,'India compliance and advisory');
  await events.submit({preventDefault(){}});return {calls,status,button};
 }
 let r=await inquiry('deploy-preview-1--canda-advisory.netlify.app');assert.equal(r.calls,0);assert.match(r.status.textContent,/disabled/);
