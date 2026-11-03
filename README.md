@@ -22,8 +22,10 @@ This repository contains the Netlify-ready website for C&A Advisory Services. Th
 
 ### Updating content
 
-Edit the relevant files in `public/` and commit to `main`. Once the repository is connected to Netlify, pushes to the production branch can trigger deployment.
+Edit the relevant files in `public/` on the review branch. Merge to `main` only after publication approval. Once the repository is connected to Netlify, pushes to the production branch can trigger deployment.
 
-The inquiry form uses Netlify Forms rather than the previous host's database endpoint. Old inquiry records are not part of this repository. The public contact address remains `abhisheksachdeva.ca@gmail.com` until Zoho custom-domain email is configured and tested. When replacing it, update the form error message, privacy contact, visible contact links and structured metadata together.
+The inquiry form uses Netlify Forms. General inquiries use `hello@candaadvisory.com`; Abhishek's confirmed personal business mailbox is `abhishek@candaadvisory.com`. Production notification settings must be checked after publication approval. Do not test with real submissions on draft previews. Preview and branch builds disable forms and carry noindex headers through `scripts/prepare-preview.mjs`.
+
+International accounting, CFO, reporting and financial-model services sit alongside India tax, compliance and advisory services. India offerings include registrations, filings, changes and closure support. Indian audit, assurance, attestation and certification are not service offerings. Preserve existing URLs and professional attribution. Use the preview branch and draft PR for review; do not push to main or publish without owner approval. See `docs/expansion-review.md`.
 
 The site includes the existing client reviews, company marks, sourced world map and browser-based cash-runway calculator. The calculator keeps inputs in the visitor's browser. Client marks and reviews identify the relevant client or professional experience; they should not be relabelled as new C&A engagements without checking their attribution.
